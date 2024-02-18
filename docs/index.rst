@@ -1,15 +1,15 @@
 =================================
-ĐAU DÂY THẦN KINH SỐ 5 - CÁCH CHỮA -THẢO MỘC HHT
+ĐAU DÂY THẦN KINH SỐ 5 - THẢO MỘC HHT
 =================================
 
-.. image:: /img/cu-tam-that-tuoi-6.jpg
+.. image:: /img/dau-day-than-kinh-so-5.jpg
 
 .. _daudaythankinhso5:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption:ĐAU DÂY THẦN KINH SỐ 5
+   :caption: ĐAU DÂY THẦN KINH SỐ 5
 
    dau-day-than-kinh-so-5
 
