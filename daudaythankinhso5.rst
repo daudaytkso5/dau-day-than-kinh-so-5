@@ -152,24 +152,24 @@ Video: Các chữa đau dây thần kinh số 5 bằng thảo dược
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/o4WifBz4UXs?si=XIa-g6rLf4wPOL6C" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-      </div>
+   </div>
 
 
 Một số video khác
 ============
 
 Tổng hợp các `video về đau dây thần kinh số 5 
-<https://www.youtube.com/watch?v=o4WifBz4UXs&list=PLejr7_EdIH0eNblTPQqBg8HxPDwM4cYc6>`
+<https://www.youtube.com/watch?v=o4WifBz4UXs&list=PLejr7_EdIH0eNblTPQqBg8HxPDwM4cYc6>`_
 
-`Viêm dây thần kinh số 5 <https://www.youtube.com/@viem-day-than-kinh-so-5>`
+`Viêm dây thần kinh số 5 <https://www.youtube.com/@viem-day-than-kinh-so-5>`_
 
-`Đau dây thần kinh số 5 <https://www.youtube.com/@viem-day-than-kinh-so-5>`
+`Đau dây thần kinh số 5 <https://www.youtube.com/@viem-day-than-kinh-so-5>`_
 
 
 **Các bài viết khác có thể bạn chưa xem**
 
 
-`Đau dây thần kinh số 5 <https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html>`
+`Đau dây thần kinh số 5 <https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html>`_
 
 
 *******************************************
