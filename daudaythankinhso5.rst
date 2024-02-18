@@ -11,7 +11,7 @@ Bằng chứng cho thấy đau dây thần kinh này là do mất myelin trong c
    :align: center
 
 ******************************
-Biểu hiện của đau dây thần kinh số 5
+BIỂU HIỆN CỦA ĐAU DÂY THẦN KINH SỐ 5
 ******************************
 
 Biểu hiện điển hình của đau dây thần kinh sinh ba là cơn đau đột ngột dữ dội ở một bên mặt , kéo dài từ vài giây đến vài phút. Ở một số ít bệnh nhân, cơn đau kéo dài trong vài giờ.
@@ -39,7 +39,7 @@ Cơn đau kéo dài trong vài giây hoặc vài phút, cơn đau tấn công th
 
 
 ******************************
-Triệu chứng dây thần kinh số 5
+TRIỆU CHỨNG DÂY THẦN KINH SỐ 5
 ******************************
 Cảm giác ngứa ran hoặc nhấp nháy nghiêm trọng, tương tự như bị điện giật.
 
@@ -81,11 +81,11 @@ Tại thảo mộc HHT cũng có cách chữa đó là dùng thảo dược đ�
 
 Vì là thảo dược nên không dám khẳng đinh là ai dùng cũng khỏi nhưng có một đặc điểm đó là thảo dược có tính giải trừ nhiệt độc và thải ra qua đường đại tiện nên khi người dùng nghiễm nhiên là được thải độc cơ thể, đặc biệt là thải độc đường ruột.
 
-.. image:: /img/chua-dau-day-than-kinh-so-5-bang-dong-y.jp
+.. image:: /img/chua-dau-day-than-kinh-so-5-bang-dong-y.jpg
    :alt: "Chua dau day than kinh so 5 bang dong y"
    :align: center
 
-Mua thảo dược chữa đâu dây thần kinh số 5 ở đâu
+MUA THẢO DƯỢC CHỮA ĐÂU DÂY THẦN KINH SỐ 5 Ở ĐÂU
 ===============
 
 Quý khách có nhu cầu mua thảo dược chữa đau dây thần kinh số 5 của thảo mộc hht vui lòng liên hệ qua điện thoại hoặc zalo số: 0932.320.345 hoặc số 0964.421.551
@@ -113,9 +113,9 @@ Khi dùng mà thấy lượng đi cầu chưa thoải mái thì có thể tăng 
 Một số trường hợp mà tăng đến 5 thìa rồi mà vẫn chưa thoải mái thì cần liên hệ lại để được tư vấn hoặc được điều chỉnh thảo dược khác.
 
 
-****************************************
+******************************
 THẢO DƯỢC CHỮA ĐAU DÂY THẦN KINH GIÁ BAO NHIÊU? 
-****************************************
+******************************
  Bạn có thể mua tại `thảo mộc hht <https://www.facebook.com/thaomochahuytoai.hht/>`_
 
 **Một liệu trình là 1 gói có giá: 400.000 VNĐ/ 1 gói thuốc.**
@@ -126,9 +126,9 @@ Giá trên chưa bao gồm cước vận chuyển, Khi dùng 1 gói thấy đỡ
    :alt: "thao duoc chua dau day than kinh so 5 cua thao moc hht"
    :align: center
 
-*******************************************
+******************************
 LƯU Ý KHI SỬ DỤNG THẢO DƯỢC CHỮA ĐAU DÂY THẦN KINH SỐ 5
-*******************************************
+******************************
 
 Thảo dược có tác dụng thải độc khá mạnh nên dùng sẽ gây đi ngoài, thông thường vài ngày đầu sẽ đi ngoài trên 4 lần, sau đó sẽ giảm xuống 2 đến 3 lần, đây là do sức thuốc đẩy ra.
 
@@ -143,9 +143,9 @@ Trên đây là một số thông tin tổng hợp về bài thảo dược này
 Khi cần tìm hiểu bất cứ bài thuốc nào của thảo mộc HHT Bạn chỉ cần gõ bài thuốc hoặc tên bệnh cộng với chữ thảo mộc hht trên google là bạn sẽ tìm được thảo dược hoặc bài thuốc mà chúng tôi chia sẻ
 Ví dụ: rò hậu môn thảo mộc hht là bạn sẽ tìm thấy bài thuốc của chúng tôi trên google.
 
-*************************************
-Video: Các chữa đau dây thần kinh số 5 bằng thảo dược
-*************************************
+******************************
+VIDEO: CÁC CHỮA ĐAU DÂY THẦN KINH SỐ 5 BẰNG THẢO DƯỢC
+******************************
 
 .. raw:: html
    <div style="text-align: center; margin-bottom: 2em;">
@@ -170,9 +170,9 @@ Tổng hợp các `video về đau dây thần kinh số 5
 `Đau dây thần kinh số 5 <https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html>`_
 
 
-*******************************************
+******************************
 MỘT SỐ BÀI VIẾT KHÁC CÓ THỂ BẠN QUAN TÂM
-*******************************************
+******************************
 `Mật kỳ đà <https://hahuytoai.com/thao-duoc/mat-ky-da-tac-dung-cua-mat-ky-da.html>`_
 
 `Điều trị rò hậu môn không cần phẫu thuật <https://hahuytoai.com/cach-chua-benh/dieu-tri-ro-hau-mon-khong-can-phau-thuat.html>`_
