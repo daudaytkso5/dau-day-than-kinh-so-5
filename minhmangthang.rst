@@ -1,5 +1,5 @@
 ===============
-MINH MẠNG THANG
+ĐAU DÂY THẦN KINH SỐ 5 VÀ CÁCH CHỮA BẰNG THẢO DƯỢC
 ===============
 
 Minh Mạng thang là một bài thuốc khá quen thuộc trong Đông y có từ thời vua Minh Mạng. Đây được xem là phương thuốc quý dành cho cánh mày râu tăng cường sinh lực và bồi bổ cơ thể. Trong bài viết dưới đây sẽ cung cấp cho bạn một số thông tin về bài thuốc tác dụng cũng như cách sử dụng hiệu quả nhất. 
