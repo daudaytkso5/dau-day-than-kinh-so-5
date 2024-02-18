@@ -13,16 +13,16 @@
 
    dau-day-than-kinh-so-5
 
-.. _cutamthatngamruou:
+.. _cachchuadaudaythankinhso5totnhat:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: CỦ TAM THẤT NGÂM RƯỢU
+   :caption: CÁCH CHỮA ĐAU DÂY THẦN KINH SỐ 5 TỐT NHẤT
 
-   cu-tam-that-ngam-ruou
+   cach-chua-dau-day-than-kinh-so-5-tot-nhat
 
-.. image:: /img/cu-tam-that-tuoi-6.jpg
+.. image:: /img/cach-chua-dau-day-than-kinh-so-5-tot-nhat.jpg
 
 .. _kehuyetdang:
 
