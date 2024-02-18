@@ -159,19 +159,17 @@ Một số video khác
 ============
 
 Tổng hợp các `video về đau dây thần kinh số 5 
-(https://www.youtube.com/watch?v=o4WifBz4UXs&list=PLejr7_EdIH0eNblTPQqBg8HxPDwM4cYc6)`_
+<https://www.youtube.com/watch?v=o4WifBz4UXs&list=PLejr7_EdIH0eNblTPQqBg8HxPDwM4cYc6>`
 
-`Viêm dây thần kinh số 5 (https://www.youtube.com/@viem-day-than-kinh-so-5)`
+`Viêm dây thần kinh số 5 <https://www.youtube.com/@viem-day-than-kinh-so-5>`
 
-`Đau dây thần kinh số 5 (https://www.youtube.com/@viem-day-than-kinh-so-5)`_
+`Đau dây thần kinh số 5 <https://www.youtube.com/@viem-day-than-kinh-so-5>`
 
 
 **Các bài viết khác có thể bạn chưa xem**
 
-"da kỳ đà ": ("https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html", None),
 
-`Đau dây thần kinh số 5 <https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html>`_
-
+`Đau dây thần kinh số 5 <https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html>`
 
 
 *******************************************
