@@ -1,10 +1,10 @@
 =================================
-ĐỒ NGÂM RƯỢU - THẢO MỘC NGÂM RƯỢU
+ĐAU DÂY THẦN KINH SỐ 5 - CÁCH CHỮA -THẢO MỘC HHT
 =================================
 
 .. image:: /img/cu-tam-that-tuoi-6.jpg
 
-.. _minhmangthang:
+.. _daudaythankinhso5:
 
 .. toctree::
    :maxdepth: 2
