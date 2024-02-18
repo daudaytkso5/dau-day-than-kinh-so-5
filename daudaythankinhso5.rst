@@ -148,10 +148,10 @@ Video: Các chữa đau dây thần kinh số 5 bằng thảo dược
 *************************************
 
 .. raw:: html
-<div style="text-align: center; margin-bottom: 2em;">
+   <div style="text-align: center; margin-bottom: 2em;">
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/o4WifBz4UXs?si=XIa-g6rLf4wPOL6C" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/o4WifBz4UXs?si=XIa-g6rLf4wPOL6C" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        
 
 Một số video khác
 ============
