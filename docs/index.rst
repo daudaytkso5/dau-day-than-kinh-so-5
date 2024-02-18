@@ -9,9 +9,9 @@
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: MINH MẠNG THANG 36 VỊ
+   :caption:ĐAU DÂY THẦN KINH SỐ 5
 
-   minh-mang-thang
+   dau-day-than-kinh-so-5
 
 .. _cutamthatngamruou:
 
