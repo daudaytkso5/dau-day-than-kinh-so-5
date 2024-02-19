@@ -1,1 +1,1 @@
-.. include:: ../cutamthatngamruou.rst
+.. include:: ../cachchuadaudaythankinhso5totnhat.rst
